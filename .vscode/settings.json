@@ -1,0 +1,39 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "cSpell.words": [
+    "Ionicons",
+    "Signin",
+    "Signup",
+    "baike",
+    "dbaeumer",
+    "esbenp",
+    "gradlew",
+    "immer",
+    "myreactapp",
+    "netinfo",
+    "persistor",
+    "stylelint"
+  ],
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "tailwindCSS.emmetCompletions": false,
+  "vetur.format.defaultFormatter.html": "prettier",
+  "vetur.format.defaultFormatter.css": "prettier",
+  "vetur.format.defaultFormatter.postcss": "prettier",
+  "vetur.format.defaultFormatter.scss": "prettier",
+  "vetur.format.defaultFormatter.less": "prettier",
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatter.ts": "vscode-typescript",
+  "editor.rulers": [80, 120],
+  "cSpell.enableFiletypes": ["vue"],
+  "vetur.experimental.templateInterpolationService": true
+
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.eslint": true,
+  //   "source.fixAll": true
+  // }
+}
